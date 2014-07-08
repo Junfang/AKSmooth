@@ -1,0 +1,17 @@
+Package: AKSmooth
+Type: Package
+Title: AKSmooth
+Version: 1.0
+Date: 2014-06-30
+Authors@R: c(person("Junfang", "Chen", role = c("aut", "cre"),
+    email = "junfang@mpi-inf.mpg.de"),
+    person("Pavlo", "Lutsik", role = c("aut"),
+    email = "p.lutsik@mx.uni-saarland.de"),
+    person("Ruslan", "Akulenko", role = c("aut"),
+    email = "s9ruakul@stud.uni-saarland.de"))
+Authors: Junfang Chen, Pavlo Lutsik and Ruslan Akulenko
+Maintainer: Junfang Chen <junfang@mpi-inf.mpg.de>
+Description: AKSmooth: Human colon methylome profiling using low-coverage
+    bisulfite sequencing data.
+License: GPL-3
+LazyData: true
