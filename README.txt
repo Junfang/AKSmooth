@@ -26,7 +26,7 @@ install()
 library(AKSmooth)
 
 # Example
-load(./data/bn1chr21)
+load("./data/bn1chr21.rda")
 data <- bn1chr21
 fitChr21gau <- AKSmooth(data, 30, "Gaussian")
 
