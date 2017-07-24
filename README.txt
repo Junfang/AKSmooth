@@ -34,5 +34,8 @@ fitChr21gau <- AKSmooth(data, 30, "Gaussian")
 ?AKSmooth
 
 
+Reference
+
+Chen, J., Lutsik, P., Akulenko, R., Walter, J., & Helms, V. (2014). AKSmooth: Enhancing low-coverage bisulfite sequencing data via kernel-based smoothing. Journal of bioinformatics and computational biology, 12(06), 1442005.
 
 
